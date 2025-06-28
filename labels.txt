@@ -1,0 +1,6 @@
+__ignore__
+_background_
+Inclusions
+Patches
+Scratches
+others
