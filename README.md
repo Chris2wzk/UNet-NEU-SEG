@@ -19,6 +19,12 @@
 
 - 强烈建议使用`Cursor`进行项目梳理。
 
+## 📞 联系方式
+
+- **邮箱**: 1318489612@qq.com
+- **项目主页**: [GitHub Repository](https://github.com/your-username/NEU-SEG)
+⭐ **如果这个项目对你有帮助，请给个Star支持一下！** ⭐
+
 ### ✨ 主要特性
 
 - 🎯 **多模型支持**: 包含UNet基线模型及多种模块改进
@@ -320,16 +326,12 @@ MODEL_ZOO = {
 
 本项目采用MIT许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
-## 📞 联系方式
-
-- **邮箱**: 1318489612@qq.com
-- **项目主页**: [GitHub Repository](https://github.com/your-username/NEU-SEG)
 
 ---
 
 <div align="center">
 
-⭐ **如果这个项目对你有帮助，请给个Star支持一下！** ⭐
+
 
 </div>
 
