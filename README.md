@@ -22,7 +22,6 @@
 ## 📞 联系方式
 
 - **邮箱**: 1318489612@qq.com
-- **项目主页**: [GitHub Repository](https://github.com/your-username/NEU-SEG)
 ⭐ **如果这个项目对你有帮助，请给个Star支持一下！** ⭐
 
 ### ✨ 主要特性
