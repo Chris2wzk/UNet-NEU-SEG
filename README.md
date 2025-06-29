@@ -177,16 +177,16 @@ python predict.py
 - **用途**: 主要训练和测试数据集
 
 ### 部分数据集示例
-![image](https://github.com/user-attachments/assets/8f36ae17-d8fe-46ca-8b9b-389fa5b3b335)
+![image](https://github.com/user-attachments/assets/8f36ae17-d8fe-46ca-8b9b-389fa5b3b335){width=50%}
 
 
 
 ## 🏗️ 模型架构
 
 ### 基线UNet架构
-![image](https://github.com/user-attachments/assets/b04934fe-35ca-4415-b471-103803d6bd0a)
+![image](https://github.com/user-attachments/assets/b04934fe-35ca-4415-b471-103803d6bd0a){width=25%}
 本人毕业论文中使用的UNet_RepLKBlock_FastKAN架构
-![image](https://github.com/user-attachments/assets/fa695e29-9717-42f9-ad9d-4157bc96e588)
+![image](https://github.com/user-attachments/assets/fa695e29-9717-42f9-ad9d-4157bc96e588){width=25%}
 
 
 ### 改进方法
@@ -218,7 +218,7 @@ python predict.py
 | UNet_RepLKBlock_FastKAN | **84.8** | **92.3** | **95.6** |
 
 ### 基线模型和改进模型训练曲线
-![image](https://github.com/user-attachments/assets/3a9eae1f-a63e-456c-937d-bf44f39090b2)
+![image](https://github.com/user-attachments/assets/3a9eae1f-a63e-456c-937d-bf44f39090b2){width=50%}
 
 
 
