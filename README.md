@@ -177,8 +177,7 @@ python predict.py
 - **用途**: 主要训练和测试数据集
 
 ### 部分数据集示例
-![image](https://github.com/user-attachments/assets/8f36ae17-d8fe-46ca-8b9b-389fa5b3b335){width=50%}
-
+<img src="https://github.com/user-attachments/assets/8f36ae17-d8fe-46ca-8b9b-389fa5b3b335" alt="数据集示例" width="50%">
 
 
 ## 🏗️ 模型架构
