@@ -183,9 +183,9 @@ python predict.py
 ## 🏗️ 模型架构
 
 ### 基线UNet架构
-<img src="https://github.com/user-attachments/assets/b04934fe-35ca-4415-b471-103803d6bd0a"  width="25%">
-本人毕业论文中使用的UNet_RepLKBlock_FastKAN架构
-<img src="https://github.com/user-attachments/assets/fa695e29-9717-42f9-ad9d-4157bc96e588"  width="25%">
+<img src="https://github.com/user-attachments/assets/b04934fe-35ca-4415-b471-103803d6bd0a"  width="50%">
+### 改进UNet_RepLKBlock_FastKAN架构
+<img src="https://github.com/user-attachments/assets/fa695e29-9717-42f9-ad9d-4157bc96e588"  width="50%">
 
 
 ### 改进方法
@@ -218,7 +218,7 @@ python predict.py
 
 ### 基线模型和改进模型训练曲线
 
-<img src="https://github.com/user-attachments/assets/3a9eae1f-a63e-456c-937d-bf44f39090b2"  width="50%">
+<img src="https://github.com/user-attachments/assets/3a9eae1f-a63e-456c-937d-bf44f39090b2"  width="75%">
 
 
 ## 🔧 配置说明
