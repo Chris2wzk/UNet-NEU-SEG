@@ -184,6 +184,8 @@ python predict.py
 
 ### 基线UNet架构
 <img src="https://github.com/user-attachments/assets/b04934fe-35ca-4415-b471-103803d6bd0a"  width="50%">
+
+
 ### 改进UNet_RepLKBlock_FastKAN架构
 <img src="https://github.com/user-attachments/assets/fa695e29-9717-42f9-ad9d-4157bc96e588"  width="50%">
 
